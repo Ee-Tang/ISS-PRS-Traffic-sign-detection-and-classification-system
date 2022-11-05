@@ -1,0 +1,42 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.17.59.248:8501
+  External URL: http://8.219.215.154:8501
+
+2022-11-05 16:55:30.292806: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2022-11-05 16:55:30.292846: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2022-11-05 16:55:30.292868: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (iZt4nhi7idispxy14xhpcjZ): /proc/driver/nvidia/version does not exist
+valid
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.17.59.248:8501
+  External URL: http://8.219.215.154:8501
+
+2022-11-05 17:06:30.423046: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2022-11-05 17:06:30.423093: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2022-11-05 17:06:30.423116: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (iZt4nhi7idispxy14xhpcjZ): /proc/driver/nvidia/version does not exist
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.17.59.248:8501
+  External URL: http://8.219.215.154:8501
+
+2022-11-05 17:29:06.285938: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2022-11-05 17:29:06.285979: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2022-11-05 17:29:06.286004: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (iZt4nhi7idispxy14xhpcjZ): /proc/driver/nvidia/version does not exist
+2022-11-05 17:29:16.974596: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2022-11-05 17:29:16.989725: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2022-11-05 17:29:16.989893: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f3d98000b60 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2022-11-05 17:29:16.989912: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
