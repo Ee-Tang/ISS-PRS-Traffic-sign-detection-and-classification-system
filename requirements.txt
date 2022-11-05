@@ -6,3 +6,4 @@ tensorflow_gpu
 tqdm
 Pillow
 h5py
+imageio
